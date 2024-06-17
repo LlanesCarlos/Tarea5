@@ -22,4 +22,4 @@ function getData() {
     request.send(null);
   })
 }
-window.onload = getData;
+window.onload = getData
